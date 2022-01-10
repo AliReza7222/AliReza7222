@@ -6,7 +6,7 @@ src = "https://user-images.githubusercontent.com/87914098/144739127-1952c8a5-edc
   </p>
   
 ## About Me:
-<h3> i am a programmer interested in becoming a devops engineer to work on projects in various application areas.
+<h3> i am a programmer interested in becoming a devops engineer to work on projects in various application areas.</h3>
 
 ## Contact Me :
   [![Gmail Badge](https://img.shields.io/badge/-ali.r.salehi99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ali.r.salehi99@gmail.com)](mailto:ali.r.salehi99@gmail.com)

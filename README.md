@@ -1,14 +1,9 @@
-### 😃👋 Hi there 
+### 😃👋 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ff006f&lines=I\'m+Seyed+Alireza+Salehi+\.)](https://github.com/AliReza7222)
 <p align="center"  >  
   <img 
 src = "https://user-images.githubusercontent.com/87914098/144739127-1952c8a5-edc5-4685-98b6-b5b92838fbde.gif" alt="Me" width="500" height="300">
   </p>
-  
-## About Me:
-<h4>
-I'm developer and i work in the field of Back-end now.<br>
-I love coding and my work very much.</h3>
 
 ## Contact Me :
   [![Gmail Badge](https://img.shields.io/badge/-ali.r.salehi99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ali.r.salehi99@gmail.com)](mailto:ali.r.salehi99@gmail.com)

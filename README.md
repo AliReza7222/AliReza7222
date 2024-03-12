@@ -1,10 +1,9 @@
 ### 😃👋 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%ff006f&lines=I\'m+Seyed+Alireza+Salehi+\.)](https://github.com/AliReza7222)
-<p align="center"  >  
-  <img 
-src = "https://user-images.githubusercontent.com/87914098/144739127-1952c8a5-edc5-4685-98b6-b5b92838fbde.gif" alt="Me" width="500" height="300">
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00A36C&width=850&lines=I\'m+Seyed+Alireza+Salehi+\,+currently+working+as+a+Back-End+Developer+\.)](https://github.com/AliReza7222)
 
-## Contact Me :
+![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+
+### Contact Me :
   [![Gmail Badge](https://img.shields.io/badge/-ali.r.salehi99@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ali.r.salehi99@gmail.com)](mailto:ali.r.salehi99@gmail.com)
   [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0198ae?style=flat-square&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/seyed-alireza-salehi)](https://www.linkedin.com/in/seyed-alireza-salehi)
